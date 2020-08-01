@@ -10,9 +10,10 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 않이 다 좋은데 왜 C 코드 하이라이팅 안돼요 ㅠㅠ 
+아니 이번엔 하이라이팅이 날아갔어 씨발? 
 
-``` C
 
+```C 
 #include<stdio.h>
 int main(){
 	printf("hi");

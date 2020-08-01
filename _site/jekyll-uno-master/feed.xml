@@ -5,12 +5,12 @@
     <description>Hello World!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 10 Jul 2020 00:00:01 +0900</pubDate>
-    <lastBuildDate>Fri, 10 Jul 2020 00:00:01 +0900</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2020 21:35:29 +0900</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2020 21:35:29 +0900</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>Welcome to urobt3 World!</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
@@ -27,16 +27,14 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 09 Jan 2016 00:04:23 +0900</pubDate>
-        <link>http://localhost:4000/2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/welcome-to-jekyll/</guid>
+        <pubDate>Sat, 11 Jul 2020 09:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2020/welcome/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/welcome/</guid>
         
-        <category>jekyll</category>
+        <category>first</category>
         
         
-        <category>jekyll-uno-master</category>
-        
-        <category>jekyll</category>
+        <category>hello</category>
         
       </item>
     
@@ -64,6 +62,8 @@
         
         <category>jekyll</category>
         
+        
+        <category>jekyll-uno-master</category>
         
         <category>jekyll</category>
         
