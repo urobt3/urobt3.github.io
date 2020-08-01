@@ -13,7 +13,7 @@ Jekyll also offers powerful support for code snippets:
 아니 이번엔 하이라이팅이 날아갔어 씨발? 
 
 
-``` ruby 
+``` ruby
 #include<stdio.h>
 int main(){
 	printf("hi");
